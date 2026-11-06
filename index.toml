@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/lithium-fabric-0.15.4+mc1.21.1.pw.toml"
+hash = "c35010f73205b7f0f2628a19e0e17950226f93943b3c75bc6e25a0363b75a690"
+metafile = true
